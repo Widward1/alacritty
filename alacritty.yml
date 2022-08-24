@@ -1,0 +1,47 @@
+font: 
+  normal:
+    family: terminus
+    style: Regular
+
+  bold: 
+    family: terminus
+    style: Bold
+
+  italic:
+    family: terminus
+    style: Italic
+
+  bold_italic:
+    family: terminus
+    style: Bold Italic
+
+  size: 8
+
+colors:
+  # Default colors
+  primary:
+    background: '0x1c2023'
+    foreground: '0xc7ccd1'
+ 
+  # Normal colors
+  normal:
+    black:   '0x1c2023'
+    red:     '0xc7ae95'
+    green:   '0x00e5a8'
+    yellow:  '0x6edc00'
+    blue:    '0xac73e4'
+    magenta: '0xcf5290'
+    cyan:    '0x4687c8'
+    white:   '0xc7ccd1'
+
+  # Bright colors
+  bright:
+    black:   '0x727c84'
+    red:     '0xc7ae95'
+    green:   '0x00e5a8'
+    yellow:  '0x6edc00'
+    blue:    '0xac73e4'
+    magenta: '0xcf5290'
+    cyan:    '0x4687c8'
+    white:   '0xf3f4f5'
+#bruh
